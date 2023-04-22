@@ -1,0 +1,101 @@
+{
+  "auth": {
+    "cornifyadminapp5e2e61e4": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    },
+    "AMPLIFY_auth_cornifyadminapp5e2e61e4_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "cornifyadminapp5e2e61e4"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cornifyadminapp-dev-54123-authRole",
+      "UnauthRoleArn": "arn:aws:iam::074561307678:role/amplify-cornifyadminapp-dev-54123-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::074561307678:role/amplify-cornifyadminapp-dev-54123-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cornifyadminapp-dev-54123-deployment",
+      "UnauthRoleName": "amplify-cornifyadminapp-dev-54123-unauthRole",
+      "StackName": "amplify-cornifyadminapp-dev-54123",
+      "StackId": "arn:aws:cloudformation:us-east-1:074561307678:stack/amplify-cornifyadminapp-dev-54123/8423c170-cebd-11ed-b490-0a7851e01eed",
+      "AmplifyAppId": "dlgslk9rwlp0p"
+    },
+    "categories": {
+      "auth": {
+        "cornifyadminapp5e2e61e4": {
+          "userPoolId": "us-east-1_qWbMoPApw",
+          "userPoolName": "conrnify-user-pool",
+          "webClientId": "10uj5kqhffoir3j2avvgbbkbsh",
+          "nativeClientId": "10uj5kqhffoir3j2avvgbbkbsh",
+          "identityPoolId": "us-east-1:4493ab3b-582c-414e-98a0-0703655cdb84",
+          "identityPoolName": "cornify-idenity",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::074561307678:role/Cognito_cornifyidenityAuth_Role",
+          "authRoleName": "Cognito_cornifyidenityAuth_Role",
+          "unauthRoleArn": "arn:aws:iam::074561307678:role/Cognito_cornifyidenityUnauth_Role",
+          "unauthRoleName": "Cognito_cornifyidenityUnauth_Role"
+        }
+      }
+    }
+  }
+}
